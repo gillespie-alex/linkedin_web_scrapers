@@ -40,7 +40,7 @@ job_descriptions = []
 company_links = []
 
 # Job searches will be at max 40 pages, so loop through and click on each page
-for i in range(1, 2):
+for i in range(1, 40):
     try:
         driver.find_element(By.XPATH, f'//button[@aria-label="Page {i}"][@type="button"]').click()
     except:
