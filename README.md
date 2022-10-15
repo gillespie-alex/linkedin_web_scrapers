@@ -39,7 +39,7 @@ A few python libraries will need to be installed and updated version of python
   # Linux users:
   You know what to do
   # mac users:
-  sudo rm -rf /*
+  echo "Quit using this machine"
   ```
 * BeautifulSoup
   ```sh
